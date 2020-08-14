@@ -1,7 +1,7 @@
 {
-  "name": "scratch-env",
-  "version": "1.0.0",
-  "repository": "https://github.com/Richienb/scratch-env.git",
-  "author": "Richie Bendall <richiebendall@gmail.com>",
-  "license": "MIT"
+	"name": "scratch-env",
+	"version": "3.0.0",
+	"repository": "https://github.com/Richienb/scratch-env.git",
+	"author": "Richie Bendall <richiebendall@gmail.com>",
+	"license": "MIT"
 }
